@@ -6,7 +6,9 @@ I’m a college student with a strong curiosity for how technology and creativit
 
 ## 🔑 Core Strengths
 Tech-Savvy Learner: With foundational knowledge in Python and Java, I’m continuously learning and refining my skills in coding, always eager to build better and smarter solutions.
+
 Design Enthusiast: I have a flair for design and often use Canva to create clean, impactful visuals. Whether it’s for personal projects or academic presentations, I love making ideas visually engaging.
+
 Problem Solver: I love tackling challenges that push me to think creatively, whether in coding or design.
 Detail-Oriented: I pay close attention to detail, ensuring that every project—whether code or design—reflects a level of precision and thoughtfulness.
 ## 💼 What I Do
@@ -21,5 +23,6 @@ I aim to combine my technical and creative abilities to develop projects that no
 I’m always open to learning from others, collaborating on projects, or simply exchanging ideas. Whether you’re in the tech world or the creative space, feel free to reach out!
 
 Email: andromedahibnu.d@gmail.com
+
 LinkedIn: -
 Thanks for checking out my profile! Let's build something amazing together.
